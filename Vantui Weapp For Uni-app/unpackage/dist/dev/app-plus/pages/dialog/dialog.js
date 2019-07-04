@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"van-button { margin: 5px; }\n",],undefined,{path:"./pages/dialog/dialog.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/dialog/dialog.wxml') } }));

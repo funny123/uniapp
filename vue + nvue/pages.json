@@ -1,0 +1,64 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/index/index",
+		    "style" : {
+		    	"navigationBarTitleText" : "首页",
+		    	"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": false,
+					"navigationBarTextStyle": "white",
+					// #endif
+		    		"bounce": "none"
+		    	}
+		    }
+		}
+	    ,{
+            "path" : "pages/component/component",
+            "style" : {
+				"navigationBarTitleText" : "组件使用示例",
+				"app-plus": {
+					"bounce": "none"
+				}
+			}
+        },
+
+		{
+		    "path" : "pages/details/details",
+		    "style" : {
+				"navigationBarTitleText" : "",
+				"app-plus": {
+					"titleNView": false,
+					"navigationBarTextStyle": "white",
+					"bounce": "none"
+				}
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "新闻模版",
+		"navigationBarBackgroundColor": "#ec706b",
+		"backgroundColor": "#f8f8f8"
+	},
+	"tabBar" : {
+	    "color" : "#C0C4CC",
+	    "selectedColor" : "#fa436a",
+	    "borderStyle" : "black",
+	    "backgroundColor" : "#ffffff",
+	    "list" : [
+	        {
+	            "pagePath" : "pages/index/index",
+	            "iconPath" : "static/tab-home.png",
+	            "selectedIconPath" : "static/tab-home-current.png",
+	            "text" : "首页"
+	        },
+			 {
+			    "pagePath" : "pages/component/component",
+			    "iconPath" : "static/tab-home.png",
+			    "selectedIconPath" : "static/tab-home-current.png",
+			    "text" : "示例"
+			}
+	    ]
+	}
+}

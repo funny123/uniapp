@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Cell 单元格",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-tag": "/wxcomponents/vant/tag/index",
+    "van-icon": "/wxcomponents/vant/icon/index"
+  }
+}

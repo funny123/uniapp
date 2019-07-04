@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { padding: 20px; font-size: 16px; }\n.",[1],"footer { text-align: right; }\n",],undefined,{path:"./pages/panel/panel.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/panel/panel.wxml') } }));

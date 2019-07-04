@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "stepper",
+  "usingComponents": {
+    "van-stepper": "/wxcomponents/vant/stepper/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

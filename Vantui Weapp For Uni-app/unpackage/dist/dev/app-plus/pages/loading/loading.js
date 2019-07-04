@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"loading { margin-right: 20px; }\n.",[1],"shadow { padding: 10px; border-radius: 3px; background-color: rgba(0, 0, 0, 0.5); }\n",],undefined,{path:"./pages/loading/loading.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/loading/loading.wxml') } }));

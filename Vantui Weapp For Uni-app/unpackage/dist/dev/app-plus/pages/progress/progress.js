@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"progress { margin: 5px 15px 20px; }\n",],undefined,{path:"./pages/progress/progress.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/progress/progress.wxml') } }));

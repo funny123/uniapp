@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "TreeSelect 分类选择",
+  "usingComponents": {
+    "van-tree-select": "/wxcomponents/vant/tree-select/index",
+    "wrap": "/components/wrap"
+  }
+}

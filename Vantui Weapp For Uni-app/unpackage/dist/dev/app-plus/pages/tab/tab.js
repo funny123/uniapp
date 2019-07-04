@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { padding: 20px; background-color: #fff; }\n.",[1],"content-2 { padding: 20px; }\n.",[1],"right-nav { padding: 0 10px; line-height: 44px !important; }\n.",[1],"tab-class { -webkit-transition: all 0.25s ease-in-out; -o-transition: all 0.25s ease-in-out; transition: all 0.25s ease-in-out; }\n.",[1],"tab-active-class { font-size: 1.05em !important; color: #1989fa !important; }\n",],undefined,{path:"./pages/tab/tab.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tab/tab.wxml') } }));

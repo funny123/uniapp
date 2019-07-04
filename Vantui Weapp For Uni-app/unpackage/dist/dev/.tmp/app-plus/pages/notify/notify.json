@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "notify",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-notify": "/wxcomponents/vant/notify/index",
+    "wrap": "/components/wrap"
+  }
+}

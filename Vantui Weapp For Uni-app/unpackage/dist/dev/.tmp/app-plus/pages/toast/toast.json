@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "toast",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

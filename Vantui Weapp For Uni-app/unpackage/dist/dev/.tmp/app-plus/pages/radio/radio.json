@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "radio",
+  "usingComponents": {
+    "van-radio-group": "/wxcomponents/vant/radio-group/index",
+    "van-radio": "/wxcomponents/vant/radio/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

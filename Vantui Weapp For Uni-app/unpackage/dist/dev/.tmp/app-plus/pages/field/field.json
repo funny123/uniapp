@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Field 输入框",
+  "usingComponents": {
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

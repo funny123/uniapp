@@ -1,0 +1,5 @@
+
+.action-wrapper .van-goods-action {
+  position: static;
+}
+

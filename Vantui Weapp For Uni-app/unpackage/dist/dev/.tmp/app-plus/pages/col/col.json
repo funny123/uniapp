@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Layout 布局",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index"
+  }
+}

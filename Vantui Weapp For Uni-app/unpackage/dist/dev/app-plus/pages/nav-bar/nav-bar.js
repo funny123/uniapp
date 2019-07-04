@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"icon { color: #1989fa; }\n",],undefined,{path:"./pages/nav-bar/nav-bar.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/nav-bar/nav-bar.wxml') } }));

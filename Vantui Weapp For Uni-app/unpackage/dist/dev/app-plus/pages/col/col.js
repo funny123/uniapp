@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"dark, .",[1],"light { color: #fff; font-size: 13px; line-height: 30px; text-align: center; margin-bottom: 10px; background-clip: content-box; }\n.",[1],"dark { background-color: #39a9ed; }\n.",[1],"light { background-color: #66c6f2; }\n",],undefined,{path:"./pages/col/col.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/col/col.wxml') } }));

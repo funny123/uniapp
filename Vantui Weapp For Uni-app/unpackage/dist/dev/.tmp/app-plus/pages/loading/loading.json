@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "loading",
+  "usingComponents": {
+    "van-loading": "/wxcomponents/vant/loading/index",
+    "wrap": "/components/wrap"
+  }
+}

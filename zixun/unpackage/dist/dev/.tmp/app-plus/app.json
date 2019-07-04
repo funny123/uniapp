@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/component/component",
+    "pages/details/details",
+    "pages/details/videoDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "新闻模版",
+    "navigationBarBackgroundColor": "#ec706b",
+    "backgroundColor": "#f8f8f8"
+  },
+  "tabBar": {
+    "color": "#C0C4CC",
+    "selectedColor": "#fa436a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/nvue/nvue",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-current.png",
+        "text": "NVUE"
+      },
+      {
+        "pagePath": "pages/component/component",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-current.png",
+        "text": "示例"
+      }
+    ]
+  },
+  "nvue": {
+    "pages": {
+      "pages/nvue/nvue.html": {
+        "window": {
+          "usingComponents": {},
+          "navigationBarTitleText": "首页",
+          "titleNView": false,
+          "navigationBarTextStyle": "white",
+          "bounce": "none"
+        }
+      }
+    }
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "zixun",
+  "compilerVersion": "1.9.9",
+  "usingComponents": {}
+}

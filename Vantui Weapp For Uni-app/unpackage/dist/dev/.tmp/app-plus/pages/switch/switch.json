@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "switch",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-switch": "/wxcomponents/vant/switch/index",
+    "van-dialog": "/wxcomponents/vant/dialog/index"
+  }
+}

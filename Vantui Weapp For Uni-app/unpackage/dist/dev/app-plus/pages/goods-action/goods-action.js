@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"action-wrapper .",[1],"van-goods-action { position: static; }\n",],undefined,{path:"./pages/goods-action/goods-action.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/goods-action/goods-action.wxml') } }));

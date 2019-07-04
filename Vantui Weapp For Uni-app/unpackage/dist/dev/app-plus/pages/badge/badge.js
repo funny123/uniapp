@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { width: auto; margin: 0 15px; padding: 20px 0; background-color: #fff; }\n.",[1],"group { margin: 0 auto; }\n",],undefined,{path:"./pages/badge/badge.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/badge/badge.wxml') } }));

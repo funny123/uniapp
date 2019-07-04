@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "popup",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"block { top: 50%; left: 50%; width: 100px; height: 100px; position: fixed; margin: -50px 0 0 -50px; background-color: #1989fa; }\n",],undefined,{path:"./pages/transition/transition.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/transition/transition.wxml') } }));

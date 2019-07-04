@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "GoodsAction 商品导航",
+  "usingComponents": {
+    "van-goods-action": "/wxcomponents/vant/goods-action/index",
+    "van-goods-action-icon": "/wxcomponents/vant/goods-action-icon/index",
+    "van-goods-action-button": "/wxcomponents/vant/goods-action-button/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

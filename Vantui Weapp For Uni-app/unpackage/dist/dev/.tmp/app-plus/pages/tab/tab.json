@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "tab",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-tabs": "/wxcomponents/vant/tabs/index",
+    "van-tab": "/wxcomponents/vant/tab/index",
+    "van-icon": "/wxcomponents/vant/icon/index"
+  }
+}

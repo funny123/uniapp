@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { height: 100vh; background-color: #fff; }\n.",[1],"tag, .",[1],"button { margin-right: 5px; }\n.",[1],"van-card__footer { margin-top: 5px; }\n",],undefined,{path:"./pages/card/card.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/card/card.wxml') } }));

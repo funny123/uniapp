@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"van-collapse-item__content { font-size: 13px; line-height: 1.5; color: #666; }\n.",[1],"van-icon-question { margin-left: 5px; font-size: 15px !important; color: #1989fa; vertical-align: -3px; }\n",],undefined,{path:"./pages/collapse/collapse.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/collapse/collapse.wxml') } }));

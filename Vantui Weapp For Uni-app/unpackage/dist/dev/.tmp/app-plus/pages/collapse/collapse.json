@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "collapse折叠面板",
+  "usingComponents": {
+    "van-collapse": "/wxcomponents/vant/collapse/index",
+    "van-collapse-item": "/wxcomponents/vant/collapse-item/index",
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "transition 动画",
+  "usingComponents": {
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-transition": "/wxcomponents/vant/transition/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

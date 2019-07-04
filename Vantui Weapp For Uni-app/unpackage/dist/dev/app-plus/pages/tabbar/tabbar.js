@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"tabbar { position: relative !important; }\n",],undefined,{path:"./pages/tabbar/tabbar.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tabbar/tabbar.wxml') } }));

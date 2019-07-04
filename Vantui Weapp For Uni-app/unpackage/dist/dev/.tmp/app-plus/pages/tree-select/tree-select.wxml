@@ -1,0 +1,1 @@
+<view class="app _div" bind:__l="__l"><wrap title="基础用法" vue-slots="{{['default']}}"><van-tree-select items="{{items}}" main-active-index="{{mainActiveIndex}}" active-id="{{activeId}}" data-event-opts="{{[['^clickItem',[['onClickItem']]],['^clickNav',[['onClickNav']]]]}}" data-com-type="wx" bind:clickItem="__e" bind:clickNav="__e"></van-tree-select></wrap></view>

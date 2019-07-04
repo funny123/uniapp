@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"demo-checkbox-group { margin: 10px 0 0 20px; }\n.",[1],"demo-checkbox { margin: 10px 0 0 20px; }\n.",[1],"value-class { -webkit-box-flex: 0 !important; -webkit-flex: none !important; -ms-flex: none !important; flex: none !important; }\n.",[1],"icon { width: 20px; }\n",],undefined,{path:"./pages/checkbox/checkbox.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/checkbox/checkbox.wxml') } }));

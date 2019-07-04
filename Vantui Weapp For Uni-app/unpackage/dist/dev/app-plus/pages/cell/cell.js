@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title { margin-right: 5px; display: inline-block; vertical-align: middle; }\n",],undefined,{path:"./pages/cell/cell.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/cell/cell.wxml') } }));

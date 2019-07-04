@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"col { text-align: center; height: 100px; float: none; display: inline-block; vertical-align: middle; }\n.",[1],"icon { display: block; margin: 15px 0; color: rgba(69, 90, 100, 0.8); }\n.",[1],"text { font-size: 14px; }\n.",[1],"demo-tab-pane { padding-top: 10px; }\n",],undefined,{path:"./pages/icon/icon.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/icon/icon.wxml') } }));

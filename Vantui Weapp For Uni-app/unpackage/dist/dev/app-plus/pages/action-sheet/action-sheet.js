@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { padding: 20px; }\n",],undefined,{path:"./pages/action-sheet/action-sheet.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/action-sheet/action-sheet.wxml') } }));

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "dialog",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-dialog": "/wxcomponents/vant/dialog/index",
+    "van-field": "/wxcomponents/vant/field/index",
+    "wrap": "/components/wrap"
+  }
+}

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"submit-wapper .",[1],"root-class { position: static; }\n",],undefined,{path:"./pages/submit-bar/submit-bar.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/submit-bar/submit-bar.wxml') } }));

@@ -1,0 +1,1 @@
+<view class="wrap data-v-89f97218" bind:__l="__l"><block wx:if="{{title}}"><view class="title data-v-89f97218">{{title}}</view></block><slot></slot></view>

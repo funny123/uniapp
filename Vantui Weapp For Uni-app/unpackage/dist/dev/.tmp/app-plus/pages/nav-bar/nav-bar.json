@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "nav-bar",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-nav-bar": "/wxcomponents/vant/nav-bar/index",
+    "van-icon": "/wxcomponents/vant/icon/index"
+  }
+}

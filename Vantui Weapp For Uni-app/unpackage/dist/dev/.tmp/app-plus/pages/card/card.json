@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "Card 商品卡片",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-card": "/wxcomponents/vant/card/index",
+    "van-tag": "/wxcomponents/vant/tag/index",
+    "van-button": "/wxcomponents/vant/button/index"
+  }
+}

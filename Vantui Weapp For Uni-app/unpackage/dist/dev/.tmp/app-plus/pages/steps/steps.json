@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "steps",
+  "usingComponents": {
+    "van-steps": "/wxcomponents/vant/steps/index",
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "wrap": "/components/wrap"
+  }
+}

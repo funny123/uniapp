@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "checkbox",
+  "usingComponents": {
+    "demo-block": "/wxcomponents/vant/demo-block/index",
+    "van-checkbox": "/wxcomponents/vant/checkbox/index",
+    "van-checkbox-group": "/wxcomponents/vant/checkbox-group/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-cell": "/wxcomponents/vant/cell/index"
+  }
+}

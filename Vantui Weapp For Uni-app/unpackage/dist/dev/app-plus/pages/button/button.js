@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"row { height: 44px; margin-bottom: 15px; }\n",],undefined,{path:"./pages/button/button.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/button/button.wxml') } }));

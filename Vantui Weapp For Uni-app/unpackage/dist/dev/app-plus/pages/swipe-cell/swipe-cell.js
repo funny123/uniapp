@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"demo-swipe-cell { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }\n.",[1],"van-swipe-cell__left, .",[1],"van-swipe-cell__right { display: inline-block; width: 65px; height: 44px; font-size: 15px; line-height: 44px; color: #fff; text-align: center; background-color: #f44; }\n",],undefined,{path:"./pages/swipe-cell/swipe-cell.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/swipe-cell/swipe-cell.wxml') } }));
